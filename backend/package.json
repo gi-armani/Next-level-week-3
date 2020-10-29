@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "multer": "^1.4.2",
     "sqlite3": "^5.0.0",
     "tsc-init": "^2.1.0",
     "typeorm": "^0.2.28",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.8",
+    "@types/multer": "^1.4.4",
     "ts-node-dev": "^1.0.0"
   }
 }
